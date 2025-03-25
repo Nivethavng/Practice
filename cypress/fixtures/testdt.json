@@ -1,0 +1,7 @@
+{
+    "user": "John",
+    "password": "John123",
+    "email": "john123@gmail.com",
+    "capturedMsg": "Started Learning Cypress",
+    "expectedMsg":"Message received!"
+}
