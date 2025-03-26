@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run --spec 'cypress/Integration2/HomePage.cy.js' "
+    "test": "npx cypress run --spec 'cypress/Integration2/HomePage.cy.js' ",
+    "dashboardReport": "npx cypress run --record --key 8e3adeea-5680-4726-8839-d48d699e2081 --spec \"cypress/Integration2/HomePage.cy.js\""
   },
   "author": "",
   "license": "ISC",
